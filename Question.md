@@ -12,5 +12,5 @@ Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/july_1_2022
 Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/july_1_2022(ii).java <br>
 
 (5) How Many Numbers Are Smaller Than the Current Number<br>
-Solution ==> 
+Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/july_2_2022(i).java <br>
 
