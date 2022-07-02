@@ -10,3 +10,7 @@ Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/july_1_2022
 
 (4) Best Time to Buy and Sell Stock<br>
 Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/july_1_2022(ii).java <br>
+
+(5) How Many Numbers Are Smaller Than the Current Number<br>
+Solution ==> 
+
