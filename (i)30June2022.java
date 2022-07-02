@@ -1,8 +1,8 @@
-/*#Approach 1
+//#Approach 1
 
-Time complexity: O(n) where nn is the length of input array.
+/*Time complexity: O(n) where nn is the length of input array.
 Space complexity: O(1) since we don't use any additional space to find the running sum. Note that we do not take into consideration the space occupied by the output array.
-
+*/
 class Solution {
     public int[] runningSum(int[] nums) {
         int l=nums.length;
@@ -14,7 +14,7 @@ class Solution {
     return nums; }
 }
 
-#Approach 2: Using Separate Space
+/*#Approach 2: Using Separate Space
 
 Time complexity: O(n) where n is the length of the input array. This is because we use a single loop that iterates over the entire array to calculate the running sum.
 Space complexity: O(1) since we don't use any additional space to find the running sum. Note that we do not take into consideration the space occupied by the output array.
