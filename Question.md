@@ -14,3 +14,5 @@ Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/july_1_2022
 (5) How Many Numbers Are Smaller Than the Current Number<br>
 Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/july_2_2022(i).java <br>
 
+(6) Gas Station<br>
+Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/july_3_2022(i).java <br>
