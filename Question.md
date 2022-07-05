@@ -19,3 +19,6 @@ Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/july_3_2022
 
 (7) Add to Array-Form of Integer<br>
 Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/july_3_2022(ii).java <br>
+
+(8) Longest Consecutive Sequence <br>
+Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/july_5_2022(i).java <br>
