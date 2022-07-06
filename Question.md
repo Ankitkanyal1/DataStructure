@@ -25,3 +25,6 @@ Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/july_5_2022
 
 (9) Contains Duplicate<br>
 Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/july_6_2022(i).java<br>
+
+(10) Maximum Subarray<br>
+Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/july_6_2022(ii).java <br>
