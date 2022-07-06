@@ -22,3 +22,6 @@ Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/july_3_2022
 
 (8) Longest Consecutive Sequence <br>
 Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/july_5_2022(i).java <br>
+
+(9) Contains Duplicate<br>
+Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/july_6_2022(i).java<br>
