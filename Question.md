@@ -28,3 +28,6 @@ Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/july_6_2022
 
 (10) Maximum Subarray<br>
 Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/july_6_2022(ii).java <br>
+
+(11) Two Sum <br>
+Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/july_7_2022(i).java <br>
