@@ -34,3 +34,6 @@ Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/july_7_2022
 
 (12) Merge Sorted Array<br>
 Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/july_7_2022(ii).java<br>
+
+(13) Product of Array Except Self<br>
+Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/july_8_2022(i).java<br>
