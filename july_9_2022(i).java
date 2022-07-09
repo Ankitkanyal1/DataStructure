@@ -18,3 +18,5 @@ class Solution {
             return res;
     }
 }
+
+// Approach 2
