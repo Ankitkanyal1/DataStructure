@@ -40,3 +40,6 @@ Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/july_8_2022
 
 (14) Reshape the Matrix <br>
 Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/july_10_2022(i).java<br>
+
+(15) Search a 2D Matrix<br>
+Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/july_10_2022(ii).java<br>
