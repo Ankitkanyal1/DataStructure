@@ -46,3 +46,6 @@ Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/july_10_202
 
 (16) Valid Sudoku<br> 
 Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/july_11_2022(i).java<br>
+
+(17) Valid Anagram<br>
+Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/july_11_2022(ii).java<br>
