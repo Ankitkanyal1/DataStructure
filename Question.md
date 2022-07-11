@@ -43,3 +43,6 @@ Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/july_10_202
 
 (15) Search a 2D Matrix<br>
 Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/july_10_2022(ii).java<br>
+
+(16) Valid Sudoku<br> 
+Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/july_11_2022(i).java<br>
