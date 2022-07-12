@@ -54,4 +54,4 @@ Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/july_11_202
 Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/july_12_2022(i).java<br>
 
 (19) Ransom Note<br>
-Solution ==>  <br>
+Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/july_12_2022(ii).java <br>
