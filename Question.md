@@ -49,3 +49,9 @@ Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/july_11_202
 
 (17) Valid Anagram<br>
 Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/july_11_2022(ii).java<br>
+
+(18) First Unique Character in a String<br>
+Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/july_12_2022(i).java<br>
+
+(19) Ransom Note<br>
+Solution ==>  <br>
