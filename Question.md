@@ -55,3 +55,6 @@ Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/july_12_202
 
 (19) Ransom Note<br>
 Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/july_12_2022(ii).java <br>
+
+(20) Merge Two Sorted Lists<br>
+Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/july_12_2022(iii).java <br>
