@@ -58,3 +58,6 @@ Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/july_12_202
 
 (20) Merge Two Sorted Lists<br>
 Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/july_12_2022(iii).java <br>
+
+(21) Remove Linked List Elements<br>
+Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/july_12_2022(iv).java<br>
