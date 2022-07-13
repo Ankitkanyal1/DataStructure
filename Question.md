@@ -64,3 +64,6 @@ Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/july_12_202
 
 (22) Remove Duplicates from Sorted List<br>
 Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/july_13_2022(i).java  <br>
+
+(23) Reverse Linked List<br>
+Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/july_13_2022(ii).java<br>
