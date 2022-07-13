@@ -61,3 +61,6 @@ Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/july_12_202
 
 (21) Remove Linked List Elements<br>
 Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/july_12_2022(iv).java<br>
+
+(22) Remove Duplicates from Sorted List<br>
+Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/july_13_2022(i).java  <br>
