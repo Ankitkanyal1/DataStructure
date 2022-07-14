@@ -67,3 +67,6 @@ Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/july_13_202
 
 (23) Reverse Linked List<br>
 Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/july_13_2022(ii).java<br>
+
+(24)Valid Parentheses <br>
+Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/july_14_2022(i).java<br>
