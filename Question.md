@@ -70,3 +70,6 @@ Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/july_13_202
 
 (24)Valid Parentheses <br>
 Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/july_14_2022(i).java<br>
+
+(25) Implement Queue using Stacks<br>
+Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/july_15_2022(i).java<br>
