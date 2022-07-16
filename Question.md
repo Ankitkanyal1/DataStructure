@@ -73,3 +73,12 @@ Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/july_14_202
 
 (25) Implement Queue using Stacks<br>
 Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/july_15_2022(i).java<br>
+
+(26) Binary Tree Inorder Traversal<br>
+Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/july_16_2022(i).java<br>
+
+(27) Binary Tree Preorder Traversal<br>
+Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/july_16_2022(ii).java<br>
+
+(28) Binary Tree Postorder Traversal<br>
+Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/july_16_2022(iii).java
