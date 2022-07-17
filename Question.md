@@ -85,3 +85,6 @@ Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/july_16_202
 
 (29) Binary Tree Level Order Traversal<br>
 Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/july_17_2022(i).java<br>
+
+(30) Symmetric Tree<br>
+Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/july_17_2022(ii).java<br>
