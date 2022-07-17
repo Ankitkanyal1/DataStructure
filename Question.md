@@ -88,3 +88,6 @@ Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/july_17_202
 
 (30) Symmetric Tree<br>
 Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/july_17_2022(ii).java<br>
+
+(31) Maximum Depth of Binary Tree<br>
+Solution ==>https://github.com/Ankitkanyal1/DataStructure/blob/main/july_17_2022(iii).java<br>
