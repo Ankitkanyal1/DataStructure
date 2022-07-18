@@ -91,3 +91,6 @@ Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/july_17_202
 
 (31) Maximum Depth of Binary Tree<br>
 Solution ==>https://github.com/Ankitkanyal1/DataStructure/blob/main/july_17_2022(iii).java<br>
+
+(32) Invert Binary Tree<br>
+Solution ==>https://github.com/Ankitkanyal1/DataStructure/blob/main/july_18_2022(i).java<br>
