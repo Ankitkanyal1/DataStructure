@@ -97,3 +97,6 @@ Solution ==>https://github.com/Ankitkanyal1/DataStructure/blob/main/july_18_2022
 
 (33) Rotate Array<br>
 Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/july_22_2022(i).java<br>
+
+(34) Move Zeroes<br>
+Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/july_22_2022(ii).java<br>
