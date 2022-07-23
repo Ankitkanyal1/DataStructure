@@ -103,3 +103,6 @@ Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/july_22_202
 
 (35) Merge Intervals<br>
 Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/july_23_2022(i).java<br>
+
+(36) Reverse String<br>
+Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/july_23_2022(ii).java<br>
