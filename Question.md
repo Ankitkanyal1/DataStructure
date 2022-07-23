@@ -109,3 +109,6 @@ Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/july_23_202
 
 (37) Reverse Words in a String III<br>
 Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/july_23_2022(iii).java<br>
+
+(38) Rotate Image<br>
+Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/july_23_2022(iv).java<br>
