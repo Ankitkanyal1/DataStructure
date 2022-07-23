@@ -100,3 +100,6 @@ Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/july_22_202
 
 (34) Move Zeroes<br>
 Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/july_22_2022(ii).java<br>
+
+(35) Merge Intervals<br>
+Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/july_23_2022(i).java<br>
