@@ -115,3 +115,6 @@ Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/july_23_202
 
 (39) Middle of the Linked List<br>
 Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/july_24_2022(i).java<br>
+
+(40) Pascal's Triangle<br>
+Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/july_24_2022(ii).java<br>
