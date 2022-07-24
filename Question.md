@@ -112,3 +112,6 @@ Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/july_23_202
 
 (38) Rotate Image<br>
 Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/july_23_2022(iv).java<br>
+
+(39) Middle of the Linked List<br>
+Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/july_24_2022(i).java<br>
