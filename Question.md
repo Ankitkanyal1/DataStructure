@@ -119,5 +119,8 @@ Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/july_24_202
 (40) Pascal's Triangle<br>
 Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/july_24_2022(ii).java<br>
 
-(41 Longest Substring Without Repeating Characters<br>
+(41) Longest Substring Without Repeating Characters<br>
 Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/july_25_2022(i).java<br>
+
+(42) Search a 2D Matrix II<br>
+Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/july_26_2022(i).java<br>
