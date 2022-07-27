@@ -124,3 +124,6 @@ Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/july_25_202
 
 (42) Search a 2D Matrix II<br>
 Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/july_26_2022(i).java<br>
+
+(43) Populating Next Right Pointers in Each Node<br>
+Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/july_27_2022(i).java<br>
