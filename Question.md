@@ -127,3 +127,6 @@ Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/july_26_202
 
 (43) Populating Next Right Pointers in Each Node<br>
 Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/july_27_2022(i).java<br>
+
+(44) Increasing Triplet Subsequence<br>
+Solution ==>https://github.com/Ankitkanyal1/DataStructure/blob/main/july_28_2022(i).java <br>
