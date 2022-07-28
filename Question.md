@@ -130,3 +130,10 @@ Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/july_27_202
 
 (44) Increasing Triplet Subsequence<br>
 Solution ==>https://github.com/Ankitkanyal1/DataStructure/blob/main/july_28_2022(i).java <br>
+
+(45) Subarray sum equals k<br>
+Solution ==>https://github.com/Ankitkanyal1/DataStructure/blob/main/july_28_2022(ii).java<br>
+
+(46) Add String<br>
+Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/july_28_2022(iii).java<br>
+
