@@ -137,3 +137,5 @@ Solution ==>https://github.com/Ankitkanyal1/DataStructure/blob/main/july_28_2022
 (46) Add String<br>
 Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/july_28_2022(iii).java<br>
 
+(47) Longest Palindrome<br>
+Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/july_28_2022(iv).java<br>
