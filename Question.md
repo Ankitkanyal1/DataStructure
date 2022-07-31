@@ -142,3 +142,6 @@ Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/july_28_202
 
 (48) Integer to Roman<br>
 Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/july_31_2022(i).java<br>
+
+(49) Roman to Integer<br>
+Solution ==>https://github.com/Ankitkanyal1/DataStructure/blob/main/july_31_2022(ii).java<br>
