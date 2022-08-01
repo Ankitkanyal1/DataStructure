@@ -144,4 +144,7 @@ Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/july_28_202
 Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/july_31_2022(i).java<br>
 
 (49) Roman to Integer<br>
-Solution ==>https://github.com/Ankitkanyal1/DataStructure/blob/main/july_31_2022(ii).java<br>
+Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/july_31_2022(ii).java<br>
+
+(50) Letter Combinations of a Phone Number<br>
+Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(50)1Aug2022.java<br>
