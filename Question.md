@@ -1,7 +1,6 @@
 (1) Running Sum of 1d Array <br>
 Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(i)30June2022.java <br>
 
-
 (2) Sort Colors <br>
 Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(ii)30June2022.java <br>
 
@@ -151,3 +150,6 @@ Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(50)1Aug202
 
 (51) Implement strStr()<br>
 Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(51)1Aug2022.java<br>
+
+(52) Count and Say<br>
+Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(52)2Aug2022.java<br>
