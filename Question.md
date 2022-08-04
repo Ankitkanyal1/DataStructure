@@ -159,3 +159,6 @@ Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(53)3Aug202
 
 (54) Length of Last Word<br>
 Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(54)4Aug2022.java<br>
+
+(55) Add Binary<br>
+Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(55)4Aug2022.java<br>
