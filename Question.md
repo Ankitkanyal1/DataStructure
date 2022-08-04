@@ -162,3 +162,6 @@ Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(54)4Aug202
 
 (55) Add Binary<br>
 Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(55)4Aug2022.java<br>
+
+(56) Simplify Path<br>
+Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(56)4Aug2022.java<br>
