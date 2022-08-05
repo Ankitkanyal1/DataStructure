@@ -165,3 +165,6 @@ Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(55)4Aug202
 
 (56) Simplify Path<br>
 Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(56)4Aug2022.java<br>
+
+(57) Valid Palindrome<br>
+Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(57)5Aug2022.java<br>
