@@ -177,3 +177,6 @@ Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(59)6Aug202
 
 (60)  Fraction to Recurring Decimal<br>
 Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(60)6Aug2022.java<br>
+
+(61) Excel Sheet Column Number<br>
+Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(61)7Aug2022.java<br>
