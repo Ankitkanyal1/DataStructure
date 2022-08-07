@@ -180,3 +180,6 @@ Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(60)6Aug202
 
 (61) Excel Sheet Column Number<br>
 Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(61)7Aug2022.java<br>
+
+(62) Excel Sheet Column Title<br>
+Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(62)8Aug2022.java<br>
