@@ -189,3 +189,6 @@ Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(63)7Aug202
 
 (64) Isomorphic String<br>
 Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(64)8Aug2022.java<br>
+
+(65) Implement Trie<br>
+Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(65)9Aug2022.java<br>
