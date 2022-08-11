@@ -201,3 +201,8 @@ Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(67)9Aug202
 
 (68) Binary Tree Paths<br>
 Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(68)11Aug2022.java<br>
+
+(69) Minimum Size Subarray Sum<br>
+Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(69)11Aug2022.java<br>
+
+(70)
