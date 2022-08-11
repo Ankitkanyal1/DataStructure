@@ -198,3 +198,6 @@ Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(66)9Aug202
 
 (67) Basic Calculator II<br>
 Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(67)9Aug2022.java<br>
+
+(68) Binary Tree Paths<br>
+Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(68)11Aug2022.java<br>
