@@ -207,3 +207,6 @@ Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(69)11Aug20
 
 (70) Contains Duplicate II<br>
 Solution ==>https://github.com/Ankitkanyal1/DataStructure/blob/main/(70)12Aug2022.java<br>
+
+(71) Maximum Average Subarray I<br>
+Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(71)12Aug2022.java<br>
