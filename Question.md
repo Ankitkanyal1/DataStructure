@@ -205,4 +205,5 @@ Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(68)11Aug20
 (69) Minimum Size Subarray Sum<br>
 Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(69)11Aug2022.java<br>
 
-(70)
+(70) Contains Duplicate II<br>
+Solution ==>https://github.com/Ankitkanyal1/DataStructure/blob/main/(70)12Aug2022.java<br>
