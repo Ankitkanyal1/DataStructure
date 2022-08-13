@@ -213,3 +213,6 @@ Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(71)12Aug20
 
 (72) Find the K-Beauty of a Number<br>
 Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(72)13Aug2022.java<br>
+
+(73) Flatten Binary Tree to Linked List<br>
+Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(73)13Aug2022.java<br>
