@@ -210,3 +210,6 @@ Solution ==>https://github.com/Ankitkanyal1/DataStructure/blob/main/(70)12Aug202
 
 (71) Maximum Average Subarray I<br>
 Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(71)12Aug2022.java<br>
+
+(72) Find the K-Beauty of a Number<br>
+Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(72)13Aug2022.java<br>
