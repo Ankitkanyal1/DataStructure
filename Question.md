@@ -216,3 +216,6 @@ Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(72)13Aug20
 
 (73) Flatten Binary Tree to Linked List<br>
 Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(73)13Aug2022.java<br>
+
+(74) Remove Nth Node From End of List<br>
+Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(74)14Aug2022.java<br>
