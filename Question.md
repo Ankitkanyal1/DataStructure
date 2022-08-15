@@ -219,3 +219,6 @@ Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(73)13Aug20
 
 (74) Remove Nth Node From End of List<br>
 Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(74)14Aug2022.java<br>
+
+(75) Rotate List<br>
+Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(75)15Aug2022.java<br>
