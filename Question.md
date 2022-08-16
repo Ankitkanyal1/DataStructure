@@ -224,5 +224,7 @@ Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(74)14Aug20
 Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(75)15Aug2022.java<br>
 
 (76) Remove Duplicates from Sorted Array II<br>
-Solution ==>https://github.com/Ankitkanyal1/DataStructure/blob/main/(76)16Aug2022.java<br>
+Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(76)16Aug2022.java<br>
 
+(77) 3Sum<br>
+Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(77)16Aug2022.java<br>
