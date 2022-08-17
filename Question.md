@@ -234,3 +234,6 @@ Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(78)17Aug20
 
 (79) Partition List<br>
 Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(79)17Aug2022.java<br>
+
+(80) Linked List Cycle<br>
+Solution ==>https://github.com/Ankitkanyal1/DataStructure/blob/main/(80)17Aug2022.java<br>
