@@ -228,3 +228,9 @@ Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(76)16Aug20
 
 (77) 3Sum<br>
 Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(77)16Aug2022.java<br>
+
+(78) Remove Duplicates from Sorted List II<br>
+Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(78)17Aug2022.java<br>
+
+(79) Partition List<br>
+Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(79)17Aug2022.java<br>
