@@ -240,3 +240,6 @@ Solution ==>https://github.com/Ankitkanyal1/DataStructure/blob/main/(80)17Aug202
 
 (81) Linked List Cycle II<br>
 Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(81)19Aug2022.java<br>
+
+(82) Reorder List<br>
+Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(82)19Aug2022.java<br>
