@@ -243,3 +243,6 @@ Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(81)19Aug20
 
 (82) Reorder List<br>
 Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(82)19Aug2022.java<br>
+
+(83) Intersection of Two Linked Lists<br>
+Solution ==>https://github.com/Ankitkanyal1/DataStructure/blob/main/(83)20Aug2022.java<br>
