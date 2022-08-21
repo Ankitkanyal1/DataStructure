@@ -246,3 +246,8 @@ Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(82)19Aug20
 
 (83) Intersection of Two Linked Lists<br>
 Solution ==>https://github.com/Ankitkanyal1/DataStructure/blob/main/(83)20Aug2022.java<br>
+
+(84) Happy Number<br>
+Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(84)21Aug2022.java<br>
+
+(85) 
