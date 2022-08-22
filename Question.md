@@ -250,4 +250,7 @@ Solution ==>https://github.com/Ankitkanyal1/DataStructure/blob/main/(83)20Aug202
 (84) Happy Number<br>
 Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(84)21Aug2022.java<br>
 
-(85) 
+(85) Palindrome Linked List<br>
+Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(85)22Aug2022.java<br>
+
+(86) 
