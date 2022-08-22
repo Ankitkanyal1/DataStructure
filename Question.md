@@ -253,4 +253,5 @@ Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(84)21Aug20
 (85) Palindrome Linked List<br>
 Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(85)22Aug2022.java<br>
 
-(86) 
+(86) Find the Duplicate Number<br>
+Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(86)22Aug2022.java<br>
