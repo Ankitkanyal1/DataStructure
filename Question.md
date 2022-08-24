@@ -261,3 +261,6 @@ Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(87)23Aug20
 
 (88) Fibonacci Number<br>
 Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(88)23Aug2022.java<br>
+
+(89) Power of Two<br>
+Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(89)24Aug2022.java<br>
