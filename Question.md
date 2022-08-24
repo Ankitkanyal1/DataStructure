@@ -264,3 +264,12 @@ Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(88)23Aug20
 
 (89) Power of Two<br>
 Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(89)24Aug2022.java<br>
+
+(90) Power of Four<br>
+Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(90)24Aug2022.java<br>
+
+(91) Power of Three<br>
+Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(91)24Aug2022.java<br>
+
+(92) All Possible Full Binary Trees<br>
+Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(92)24Aug2022.java<br>
