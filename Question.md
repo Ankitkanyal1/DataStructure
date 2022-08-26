@@ -276,3 +276,9 @@ Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(92)24Aug20
 
 (93) Find the Winner of the Circular Game<br>
 Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(93)25Aug2022.java<br>
+
+(94) Swap Nodes in Pairs<br>
+Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(94)26Aug2022.java<br>
+
+(95)
+Solution ==>
