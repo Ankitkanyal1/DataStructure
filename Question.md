@@ -282,3 +282,7 @@ Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(94)26Aug20
 
 (95) Find Kth Bit in Nth Binary String
 Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(95)27Aug2022.java<br>
+
+(96) Decode String<br>
+Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(96)28Aug2022.java<br>
+
