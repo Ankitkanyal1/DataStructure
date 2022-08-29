@@ -25,3 +25,20 @@ class Solution {
         return fib(n-1)+fib(n-2);
     }
 }
+
+// Approach 3 ==> Using Dynamic Programming
+
+class Solution {
+    public int fib(int n) {
+       return dp(n,new int[n+1]);
+    }
+    public int dp(int n, int[] qb){
+        if(n==1 || n==0) return n;
+        if(qb[n]!=0) return qb[n];
+        int fib1=dp(n-1, qb);
+        int fib2=dp(n-2, qb);
+        int sum=fib1+fib2;
+        qb[n]=sum;
+        return sum;
+    }
+}
