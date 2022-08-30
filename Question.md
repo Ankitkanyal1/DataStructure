@@ -286,3 +286,8 @@ Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(95)27Aug20
 (96) Decode String<br>
 Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(96)28Aug2022.java<br>
 
+(97) Counting Bits<br>
+Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(97)30Aug2022.java<br>
+
+(98) Divisor Game<br>
+Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(98)30Aug2022.java<br>
