@@ -17,3 +17,18 @@ Output: 4
 Explanation:
 T_3 = 0 + 1 + 1 = 2
 T_4 = 1 + 1 + 2 = 4*/
+
+// Approach 2 ==> Using Recursion 
+
+class Solution {
+    public int tribonacci(int n) {
+        return add(n,0,1,1);
+    }
+    public int add(int n, int a, int b, int c){
+        if(n==0) return 0;
+        if(n==1||n==2) return 1;
+        int sum=a+b+c;
+        if(n==3) return sum;        
+        return add(n-1,b,c,sum);
+    }
+}
