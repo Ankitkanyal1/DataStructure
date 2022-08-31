@@ -291,3 +291,11 @@ Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(97)30Aug20
 
 (98) Divisor Game<br>
 Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(98)30Aug2022.java<br>
+
+(99) N-th Tribonacci Number<br>
+Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(99)31Aug2022.java<br>
+
+(100) Climbing Stairs<br>
+Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(100)31Aug2022.java<br>
+
+(101) 
