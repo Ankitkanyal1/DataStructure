@@ -301,3 +301,6 @@ Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(100)31Aug2
 (101) Get Maximum in Generated Array<br>
 Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(101)1Sep2022.java<br>
 
+(102) Is Subsequence<br>
+Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(102)1Sep2022.java<br>
+
