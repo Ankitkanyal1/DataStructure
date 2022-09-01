@@ -298,4 +298,6 @@ Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(99)31Aug20
 (100) Climbing Stairs<br>
 Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(100)31Aug2022.java<br>
 
-(101) 
+(101) Get Maximum in Generated Array<br>
+Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(101)1Sep2022.java<br>
+
