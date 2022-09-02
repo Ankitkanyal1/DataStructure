@@ -304,3 +304,5 @@ Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(101)1Sep20
 (102) Is Subsequence<br>
 Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(102)1Sep2022.java<br>
 
+(103) Count Sorted Vowel Strings<br>
+Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(103)2Sep2022.java<br>
