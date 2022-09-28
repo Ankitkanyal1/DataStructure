@@ -306,3 +306,6 @@ Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(102)1Sep20
 
 (103) Count Sorted Vowel Strings<br>
 Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(103)2Sep2022.java<br>
+
+(104) Decode XORed Array<br>
+Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(104)28Sep2022.java<br>
