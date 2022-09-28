@@ -309,3 +309,6 @@ Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(103)2Sep20
 
 (104) Decode XORed Array<br>
 Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(104)28Sep2022.java<br>
+
+(105) Number of Steps to Reduce a Number to Zero<br>
+Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(105)28Sep2022.java<br>
