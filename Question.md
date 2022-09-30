@@ -312,3 +312,9 @@ Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(104)28Sep2
 
 (105) Number of Steps to Reduce a Number to Zero<br>
 Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(105)28Sep2022.java<br>
+
+(106) XOR Operation in an Array<br>
+Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(106)30Sep2022.java<br>
+
+(107) Minimum Bit Flips to Convert Number<br>
+Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(107)30Sep2022.java<br>
