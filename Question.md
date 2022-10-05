@@ -318,3 +318,8 @@ Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(106)30Sep2
 
 (107) Minimum Bit Flips to Convert Number<br>
 Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(107)30Sep2022.java<br>
+
+(108) Count the Number of Consistent Strings<br>
+Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(108)2Oct2022.java<br>
+
+
