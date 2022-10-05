@@ -322,4 +322,7 @@ Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(107)30Sep2
 (108) Count the Number of Consistent Strings<br>
 Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(108)2Oct2022.java<br>
 
+(109) Sum of All Subset XOR Totals<br>
+Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(109)5Oct2022.java<br>
 
+(110)
