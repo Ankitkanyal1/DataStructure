@@ -280,7 +280,7 @@ Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(93)25Aug20
 (94) Swap Nodes in Pairs<br>
 Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(94)26Aug2022.java<br>
 
-(95) Find Kth Bit in Nth Binary String
+(95) Find Kth Bit in Nth Binary String<br>
 Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(95)27Aug2022.java<br>
 
 (96) Decode String<br>
