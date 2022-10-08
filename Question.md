@@ -325,4 +325,5 @@ Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(108)2Oct20
 (109) Sum of All Subset XOR Totals<br>
 Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(109)5Oct2022.java<br>
 
-(110)
+(110) Minimum Sum of Four Digit Number After Splitting Digits<br>
+Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(110)8Oct2022.java<br>
