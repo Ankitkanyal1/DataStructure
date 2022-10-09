@@ -327,3 +327,6 @@ Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(109)5Oct20
 
 (110) Minimum Sum of Four Digit Number After Splitting Digits<br>
 Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(110)8Oct2022.java<br>
+
+(111) Split a String in Balanced Strings<br>
+Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(110)9Oct2022.java<br>
