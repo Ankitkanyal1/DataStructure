@@ -330,3 +330,6 @@ Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(110)8Oct20
 
 (111) Split a String in Balanced Strings<br>
 Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(110)9Oct2022.java<br>
+
+(112) Maximum 69 Number<br>
+Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(112)10Oct2022.java<br>
