@@ -333,3 +333,9 @@ Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(110)9Oct20
 
 (112) Maximum 69 Number<br>
 Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(112)10Oct2022.java<br>
+
+(113) Minimum Operations to Make the Array Increasing<br>
+Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(113)11Oct2022.java<br>
+
+(114) DI String Match<br>
+Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(114)11Oct2022.java<br>
