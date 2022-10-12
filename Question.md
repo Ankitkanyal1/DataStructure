@@ -339,3 +339,9 @@ Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(113)11Oct2
 
 (114) DI String Match<br>
 Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(114)11Oct2022.java<br>
+
+(115) Array Partition<br>
+Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(115)12Oct2022.java<br>
+
+(116) Maximum Units on a Truck<br>
+Solution ==> 
