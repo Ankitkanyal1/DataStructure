@@ -343,5 +343,5 @@ Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(114)11Oct2
 (115) Array Partition<br>
 Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(115)12Oct2022.java<br>
 
-(116) Maximum Units on a Truck<br>
-Solution ==> 
+(116) Partitioning Into Minimum Number Of Deci-Binary Numbers<br>
+Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(116)19Oct2022.java<br>
