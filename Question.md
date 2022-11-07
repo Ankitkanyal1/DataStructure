@@ -345,3 +345,6 @@ Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(115)12Oct2
 
 (116) Partitioning Into Minimum Number Of Deci-Binary Numbers<br>
 Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(116)19Oct2022.java<br>
+
+(117) Max Increase to Keep City Skyline<br>
+Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(117)11Nov2022.java<br>
