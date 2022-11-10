@@ -348,3 +348,6 @@ Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(116)19Oct2
 
 (117) Max Increase to Keep City Skyline<br>
 Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(117)11Nov2022.java<br>
+
+(118) Minimize Maximum Pair Sum in Array<br>
+Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(118)11Nov2022.java<br>
