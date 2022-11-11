@@ -351,3 +351,6 @@ Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(117)11Nov2
 
 (118) Minimize Maximum Pair Sum in Array<br>
 Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(118)11Nov2022.java<br>
+
+(119) Partition Labels<br>
+Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(119)11Nov2022.java<br>
