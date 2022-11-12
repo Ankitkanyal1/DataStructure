@@ -354,3 +354,6 @@ Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(118)11Nov2
 
 (119) Partition Labels<br>
 Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(119)11Nov2022.java<br>
+
+(120) Maximum Number of Coins You Can Get<br>
+Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(120)12Nov2022.java<br>
