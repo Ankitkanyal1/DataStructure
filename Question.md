@@ -357,3 +357,8 @@ Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(119)11Nov2
 
 (120) Maximum Number of Coins You Can Get<br>
 Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(120)12Nov2022.java<br>
+
+(121) Minimum Add to Make Parentheses Valid<br>
+Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(121)30Nov2022.java<br>
+
+(122) 
