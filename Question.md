@@ -361,4 +361,5 @@ Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(120)12Nov2
 (121) Minimum Add to Make Parentheses Valid<br>
 Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(121)30Nov2022.java<br>
 
-(122) 
+(122) Unique Paths<br>
+Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(122)1March2023.java
