@@ -362,4 +362,7 @@ Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(120)12Nov2
 Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(121)30Nov2022.java<br>
 
 (122) Unique Paths<br>
-Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(122)1March2023.java
+Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(122)1March2023.java<br>
+
+(123) Fruit Into Baskets<br>
+Solution ==> https://github.com/Ankitkanyal1/DataStructure/blob/main/(123)5March2023.java<br>
